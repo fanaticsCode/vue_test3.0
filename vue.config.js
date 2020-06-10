@@ -10,7 +10,7 @@ const resolve = dir => {
 //const VueConf = require('./src/assets/js/libs/vue_config_class')
 //const vueConf = new VueConf(process.argv)
 module.exports = {
-	// 项目部署基础
+	// 项目部署基础 
 	// 默认情况下，我们假设你的应用将被部署在域的根目录下,
 	// 例如：https://www.my-app.com/
 	// 默认：'/'
